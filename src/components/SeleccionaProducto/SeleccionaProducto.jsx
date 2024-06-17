@@ -20,7 +20,7 @@ const SeleccionaProducto = () => {
   return (
     <>
       <h2 className="text-center my-8 text-5xl font-bold">Productos</h2>
-      <div className=" container mx-auto gap-6 grid-productos text-center">
+      <div className=" container mx-auto gap-10 grid-productos text-center">
         {productos.map((producto) => (
           <div
             key={producto.id}
