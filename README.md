@@ -1,3 +1,15 @@
+Integrantes:
+
+1 - Yoskary Asuaje
+
+2 - Hernan Sanchez
+
+3 - Santiago Rodriguez
+
+4 - Cynthia Zuñiga
+
+5 - Rocio Mella
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
